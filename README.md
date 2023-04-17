@@ -12,8 +12,9 @@ With this Social Network API, you will be able to share any thoughts you have, a
 
 ## Demo
 
+[Starting the app](https://drive.google.com/file/d/1OtXDV3CkJmCE5xZ25cQUwQGWek6Dsxjg/view)
 
-
+[Going through all user routes](https://drive.google.com/file/d/1LkafB4tv5qx3w6SiJUcAgM1tOltj0lAg/view)
 ## Usage
 
 Once you have the dependencies, start the app in the terminal with `npm start`, and you can use insomnia to interact with the app!
